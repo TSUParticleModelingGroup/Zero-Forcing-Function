@@ -1,0 +1,15 @@
+In this file do not use the equal sign in a comment because that is the trigger to read an input.
+
+Name of the files that holds the nodes and muscles. 
+Line11
+Circle24
+CSphere340
+CSphere5680
+10X10
+21X21
+Cross21X21
+Cross200X200
+Plain200X200
+
+Place the Nodes and Mucsle file you would like to run here.
+InputFileName = Cross21X21

@@ -1,0 +1,3 @@
+cd ./Source
+nvcc zeroForcing.cu -o zeroForcing -lglut -lm -lGLU -lGL
+mv zeroForcing ../ExecutableFiles	
